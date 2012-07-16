@@ -16,6 +16,7 @@ You should have received a copy of the GNU General Public License along with Fac
 - Awis Alkarni <awis@wutmedia.com> 
 
 # Instruction
+- Read https://developers.facebook.com/docs/mobile/android/build/
 - Get Facebook Android SDK from https://github.com/facebook/facebook-android-sdk
 - Add facebook-android-sdk/facebook into your workspace (use create new project from existing code)
 - Create facebook app at https://developers.facebook.com
