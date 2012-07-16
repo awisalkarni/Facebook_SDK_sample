@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Facebookapp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_starting_place">FacebookSDKSample</string>
+    <string name="APP_ID">App_id</string>
+
+</resources>
