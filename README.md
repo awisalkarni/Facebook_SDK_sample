@@ -17,7 +17,7 @@ You should have received a copy of the GNU General Public License along with Wak
 
 # Instruction
 - Get Facebook Android SDK from https://github.com/facebook/facebook-android-sdk
-- Include it in your project
+- Add facebook-android-sdk/facebook into your workspace (use create new project from existing code)
 - Create facebook app at https://developers.facebook.com
 - copy the app id and paste it into strings.xml under APP_ID
 
