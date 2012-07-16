@@ -26,3 +26,6 @@ You should have received a copy of the GNU General Public License along with Fac
 get user name, id and profile image
 post links/status
 
+# Credits
+- http://www.youtube.com/playlist?list=PLE425D66F454D6AFA
+- http://www.mybringback.com/
